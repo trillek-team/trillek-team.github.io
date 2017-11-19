@@ -1,2 +1,2 @@
 # trillek-team.github.io
-The official Trillek website - http://trillek.org/
+The official Trillek website - http://www.trillek.space/
